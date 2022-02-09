@@ -1,0 +1,16 @@
+Recursion vs Iteration
+
+Particulars 		Recursion  Iteration
+space efficient		no			yes
+time efficient		no			yes
+Ease of code		yes			no
+
+When to use/avoid recursion?
+
+when to use: 
+ 1. when we can easily breakdown a problem into similar sub problems
+ 2. when we are ok with the overcome(Time and Space) that comes with it.
+ 3. when we need quick solution instead of efficent solution.
+
+when to avoid:
+opposite to the above 3 statements. 
