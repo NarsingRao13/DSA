@@ -1,0 +1,9 @@
+Creation of Linked list:
+=> create a head, tail pointers and initialize with null
+=> create a blank node
+=> node.value = nodeValue
+=> node.next = null
+=> tail = node
+=> head = node
+
+Insertion of Linked list:
